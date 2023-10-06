@@ -2,3 +2,4 @@
 # krot
 # mac509
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&background=FFFFFF00&width=435&lines=Mac509509+krotana+%7C%23+atim)](https://git.io/typing-svg)
+	![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
