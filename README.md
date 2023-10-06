@@ -1,4 +1,4 @@
 # atim
 # krot
 # mac509
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=\\Mac509+Krotana+Atim)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&background=FFFFFF00&width=435&lines=Mac509509+krotana+%7C%23+atim)](https://git.io/typing-svg)
